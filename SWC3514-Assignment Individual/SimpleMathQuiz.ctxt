@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=SimpleMathQuiz
+comment1.params=
+comment1.target=SimpleMathQuiz()
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=
+comment3.target=void\ displayQuestion()
+comment4.params=
+comment4.target=int\ getSelectedOption()
+comment5.params=
+comment5.target=void\ showResultFrame()
+comment6.params=resultFrame
+comment6.target=void\ showAnswerFrame(javax.swing.JFrame)
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8
